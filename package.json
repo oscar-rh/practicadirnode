@@ -1,0 +1,14 @@
+{
+  "name": "practicadir",
+  "version": "1.0.0",
+  "description": "PRACTICA DE CREACION DE DIRECTORIOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Oscar Rodriguez",
+  "license": "ISC"
+}
